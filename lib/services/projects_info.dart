@@ -16,7 +16,7 @@ List<ProjectInfo> projects = [
   ProjectInfo(
     title: 'Coffee Shope  App',
     des:
-        'Coffee Shope app is a E-commerce application for selling  Drinks this application build using flutter,firebase and statemanagement.\nthis application have screens such as Admain login, Registression, user information, splash, home, shooping Cart, favorite product, category, offer, search, desh bord,all adamin Functions',
+        'Coffee Shope app is a E-commerce application for selling  Drinks this application build using flutter,firebase and statemanagement.\nthis application have screens such as Admain login, Registression, user information, splash, home, shooping Cart, favorite product, category, offer, search, desh bord,all adamin Functions,',
   ),
   ProjectInfo(
     title: 'Protofilo App',
